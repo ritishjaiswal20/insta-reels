@@ -11,7 +11,15 @@ function App() {
             <h1>Reels</h1>
       </div>
       <div className="app_videos">
-      <VideoCard />
+      <VideoCard 
+         channel='Ritish jaiswal'
+         avatarSrc='https://reactjs.org/logo-og.png'
+         song='Test song -sssss'
+         url='http://techslides.com/demos/sample-videos/small.webm'
+         likes={950}
+         shares={30}
+      
+      />
       <VideoCard />
       <VideoCard />
       <VideoCard />
