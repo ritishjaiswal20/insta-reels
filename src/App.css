@@ -20,9 +20,9 @@ html{
 }
 .app_videos{
   position:relative;
-  height:65vh;
+  height:75vh;
   background-color:white;
-  width:70%;
+  width:52%;
   border-radius:20px;
   max-width:450px;
   max-height: 1200px;
